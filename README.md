@@ -1,3 +1,13 @@
+Live : https://challenge-dot.vercel.app/
+# Panduan Install secara lokal
+clone dari github dan buka menggunakan editor dan jalankan "npm install" di terminal dan "npm start" untuk menjalankan
+
+## Credential
+untuk credential yang terdaftar adalah username dan password yaitu 'admin'
+
+## Penggunaan Teknologi
+Styling : Tailwind CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
