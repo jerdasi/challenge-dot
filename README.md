@@ -1,6 +1,6 @@
 Live : https://challenge-dot.vercel.app/
 # Panduan Install secara lokal
-clone dari github dan buka menggunakan editor dan jalankan "npm install" di terminal dan "npm start" untuk menjalankan
+clone dari github dan buka menggunakan editor dan jalankan "npm install" di terminal dan "npm start" untuk menjalankan. ada sedikit *delay* dalam mengambil data dari API.. mohon bersabar
 
 ## Credential
 untuk credential yang terdaftar adalah username dan password yaitu 'admin'
